@@ -10,10 +10,10 @@ I did a livestream [here](https://www.facebook.com/tarwinss/videos/1015721964576
 * [The Sand](the-sand.txt)
 * [Payoff](payoff.txt)
 * [Evacuate](evacuate.txt)
+* [A Dark Place](a-dark-place.txt)
 
 ## In Progress
 
-* [A Dark Place](a-dark-place.txt)
 * [Mozzies](mozzies.txt)
 * [Fire](fire.txt)
 
