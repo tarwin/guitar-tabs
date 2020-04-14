@@ -29,8 +29,10 @@ We see the stars still pierce the sky
       D             A
 Their distant fires call
 
+BREAK
+Em G D Em
 
-CHORUS
+CHORUS x2
 
         D.              A
 For this space is not a dungeon
@@ -38,5 +40,29 @@ For this space is not a dungeon
 But a place to rest our soul
          D.               A
 From the starkness of the daylight
-        G.       C.         E#
+        G.       C.         Em
 And the lives in which we're small
+
+BREAK
+Em G D Em
+
+E               G
+Art can be a message
+       D                A
+To those who need it most
+E               G
+Tears wind down a ruddy cheek
+       D                A
+Expressions not forestalled
+
+It's more than just a post
+On a social message medium
+Tearing away the blackness
+Exposing stellar waterfalls
+
+So go on out or look online
+And see what has been made
+There is something just for you
+A piece that'll make you whole
+
+REPEAT CHORUS 2x
