@@ -6,7 +6,7 @@ I did a livestream [here](https://www.facebook.com/tarwinss/videos/1015721964576
 
 ## Finished
 
-* [Contained](contained.txt)
+* [Contained](contained.txt):  [MP3 0.1a](./mp3s/contained-full-alpha-0.1.mp3)
 * [The Sand](the-sand.txt)
 * [Payoff](payoff.txt)
 * [Evacuate](evacuate.txt)
